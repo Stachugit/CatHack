@@ -57,7 +57,7 @@ Below is the pinout diagram needed for the modules:
 ## Installation and Setup
 
 1. Download and upload the firmware from M5Burner.
-2. Download this repository and unpack the Subfiles.zip to your SD card.
+2. Download the Subfiles.zip file [Here](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) and unpack it to your SD card.
 
 ⚠️Please note some files may not work, for now only the RAW protocol is supported⚠️
 
