@@ -1,6 +1,6 @@
 # CatHack Firmware for M5StickCPlus2
 
-![CatHack Logo](https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png)
+![CatHack Logo](images/cathack.png)
 
 CatHack is a powerful and versatile firmware designed for the M5StickCPlus2, offering a comprehensive suite of tools for infrared, SubGhz, WiFi, and Bluetooth operations. This firmware transforms your M5StickCPlus2 into a multi-functional hacking device, perfect for security researchers, hobbyists, and tech enthusiasts.
 
