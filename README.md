@@ -2,9 +2,13 @@
 
 CatHack is a firmware designed for the M5StickCPlus2, incorporating a wide range of functionalities for infrared, SubGhz, WiFi, and Bluetooth operations. 
 ![](images/PXL_20240721_174404806.MV.jpg)
-
-## Features
 ![](images/res.jpg)
+
+Here is a 3D model of my Setup
+https://www.tinkercad.com/things/jRt2EwITRLK-cathack
+## Features
+
+
 ### Infrared Menu
 - **tvbgone**: Turn off all nearby televisions.
 
@@ -24,11 +28,11 @@ CatHack is a firmware designed for the M5StickCPlus2, incorporating a wide range
 - **Set freq**: Set the frequency for the SubRecord, Monitor, and Jammer programs.
 
 ## What Do You Need
-
-- CC1101 module ([link here](#))
-- Small version of micro SD card module ([link here](#))
-- Double Sided Prototype Board, I am using a 3x7cm one ([link here](#))
-- Soldering iron and some soldering skills
+- Curved pin headers ![](images/M50-3930642_SPL.webp)
+- CC1101 module ![](images/original.jpg)
+- Small version of micro SD card module ![](images/the-mini-sd-card-module-micro-sd-card-module.jpg)
+- Double Sided Prototype Board, I am using a 3x7cm one ![](images/ct09300-02-thumbnail-1080x1080-70.jpg)
+- Soldering iron and some soldering skills 
 
 You can try to connect everything with cables, but it's better to solder it all nicely.
 
