@@ -11,7 +11,7 @@ CatHack is a powerful and versatile firmware designed for the M5StickCPlus2, off
   <img src="images/res.jpg" width="45%" alt="CatHack Result">
 </div>
 
-Check out the [3D model of the setup](https://www.tinkercad.com/things/jRt2EwITRLK-cathack) for a detailed view!
+Check out the [3D model of my setup](https://www.tinkercad.com/things/jRt2EwITRLK-cathack) for a detailed view!
 
 ## 🚀 Features
 
