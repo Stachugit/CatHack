@@ -1,51 +1,58 @@
 # CatHack Firmware for M5StickCPlus2
 
-CatHack is a firmware designed for the M5StickCPlus2, incorporating a wide range of functionalities for infrared, SubGhz, WiFi, and Bluetooth operations. 
+![CatHack Logo](https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png)
 
+CatHack is a powerful and versatile firmware designed for the M5StickCPlus2, offering a comprehensive suite of tools for infrared, SubGhz, WiFi, and Bluetooth operations. This firmware transforms your M5StickCPlus2 into a multi-functional hacking device, perfect for security researchers, hobbyists, and tech enthusiasts.
 
-<img src="images/PXL_20240721_174404806.MV.jpg" width="500">
-<img src="images/res.jpg" width="500">
+## 📸 Device Setup
 
-Here is a 3D model of my Setup
-https://www.tinkercad.com/things/jRt2EwITRLK-cathack
-## Features
+<div style="display: flex; justify-content: space-around;">
+  <img src="images/PXL_20240721_174404806.MV.jpg" width="45%" alt="CatHack Device Setup">
+  <img src="images/res.jpg" width="45%" alt="CatHack Result">
+</div>
 
+Check out the [3D model of the setup](https://www.tinkercad.com/things/jRt2EwITRLK-cathack) for a detailed view!
 
-### Infrared Menu
-- **tvbgone**: Turn off all nearby televisions.
+## 🚀 Features
 
-### SubGhz Menu
-- **SubSend**: Send .sub files from the Flipper Zero using the CC1101 module. Currently, only the RAW protocol is supported.
-- **SubRecord**: Record signals from devices using the CC1101 module and save them to an SD card.
-- **Jammer**: Jam selected frequencies.
-- **Monitor**: Graphically display the received signal.
+### 📺 Infrared Menu
+- **TVBGone**: Silence all nearby televisions with a single click.
 
-### WiFi Menu
-- **Wardriving**: Collect information about networks and save them to an SD card.
+### 📡 SubGhz Menu
+- **SubSend**: Transmit .sub files from Flipper Zero using the CC1101 module (currently supports RAW protocol).
+- **SubRecord**: Capture signals from devices using the CC1101 module and save them to an SD card.
+- **Jammer**: Disrupt selected frequencies.
+- **Monitor**: Visualize received signals in real-time.
 
-### Bluetooth Menu
-- **Skim check**: Check for the presence of credit card skimmers nearby.
+### 🌐 WiFi Menu
+- **Wardriving**: Collect and log information about nearby networks.
 
-### Settings Menu
-- **Set freq**: Set the frequency for the SubRecord, Monitor, and Jammer programs.
+### 🦷 Bluetooth Menu
+- **Skim Check**: Detect potential credit card skimmers in your vicinity.
 
-## What Do You Need
-- Curved pin headers ![](images/M50-3930642_SPL.webp)
-- CC1101 module <img src="images/original.jpg" width="150">
-- Small version of micro SD card module <img src="images/the-mini-sd-card-module-micro-sd-card-module.jpg" width="150">
-- Double Sided Prototype Board, I am using a 3x7cm one <img src="images/ct09300-02-thumbnail-1080x1080-70.jpg" width="150">
-- Soldering iron and some soldering skills 
+### ⚙️ Settings Menu
+- **Set Frequency**: Configure the frequency for SubRecord, Monitor, and Jammer functionalities.
 
-You can try to connect everything with cables, but it's better to solder it all nicely.
+## 🛠️ Required Components
 
-## Pinout
+- Curved pin headers
+  ![Curved Pin Headers](images/M50-3930642_SPL.webp)
+- CC1101 module
+  <img src="images/original.jpg" width="150" alt="CC1101 Module">
+- Compact micro SD card module
+  <img src="images/the-mini-sd-card-module-micro-sd-card-module.jpg" width="150" alt="SD Card Module">
+- Double-Sided Prototype Board (3x7cm recommended)
+  <img src="images/ct09300-02-thumbnail-1080x1080-70.jpg" width="150" alt="Prototype Board">
+- Soldering iron and proficiency in soldering
 
-Below is the pinout diagram needed for the modules:
+While it's possible to connect components using cables, soldering is recommended for a more reliable and compact setup.
+
+## 📊 Pinout Diagram
 
 ![Pinout Diagram](images/pinout.jpg)
 
-| M5stickcplus2      | CC1101 | SD card module |
-|--------------------|--------|----------------|
+| M5StickCPlus2      | CC1101 | SD Card Module |
+|:------------------:|:------:|:--------------:|
 | GND                | GND    | GND            |
 | G26                | CSN    | MOSI           |
 | G36/G25            | GDO0   | MISO           |
@@ -54,23 +61,22 @@ Below is the pinout diagram needed for the modules:
 | G32 (bottom pin)   | MOSI   | -              |
 | G33 (bottom pin)   | MISO   | -              |
 
-## Installation and Setup
+## 📥 Installation Guide
 
-1. Download and upload the firmware from M5Burner.
-2. Download the Subfiles.zip file [Here](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) and unpack it to your SD card.
+1. Download and flash the firmware using M5Burner.
+2. Download the [Subfiles.zip](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) and extract its contents to your SD card.
+   ⚠️ Note: Some files may not be compatible as only the RAW protocol is currently supported. ⚠️
+3. Insert the SD card into the module, and you're ready to go!
 
-⚠️Please note some files may not work, for now only the RAW protocol is supported⚠️
+## 📞 Support
 
-3. Insert the SD card into the module and you're done.
+If you have any questions or suggestions, feel free to reach out:
+- Discord: stachu0
+
+## ⚠️ Disclaimer
+
+This software is intended for educational and research purposes only. The author bears no responsibility for any misuse of this software. Use it responsibly and in compliance with all applicable laws and regulations.
 
 ---
 
-Feel free to reach out with any questions or suggestions!
-
-**Contact**: stachu0 on Discord.
-
-🐱
-
-## Disclaimer
-
-This software is intended for educational and research purposes only. The author is not responsible for any misuse of this software. Use it responsibly and in compliance with all applicable laws and regulations.
+🐱 Happy Hacking with CatHack! 🐱
