@@ -4,7 +4,7 @@ CatHack is a firmware designed for the M5StickCPlus2, incorporating a wide range
 ![](images/PXL_20240721_174404806.MV.jpg)
 
 ## Features
-
+![](images/res.jpg)
 ### Infrared Menu
 - **tvbgone**: Turn off all nearby televisions.
 
