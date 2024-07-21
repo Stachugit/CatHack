@@ -31,8 +31,6 @@ https://www.tinkercad.com/things/jRt2EwITRLK-cathack
 
 ## What Do You Need
 - Curved pin headers ![](images/M50-3930642_SPL.webp)
-- 
-
 - CC1101 module <img src="images/original.jpg" width="150">
 - Small version of micro SD card module <img src="images/the-mini-sd-card-module-micro-sd-card-module.jpg" width="150">
 - Double Sided Prototype Board, I am using a 3x7cm one <img src="images/ct09300-02-thumbnail-1080x1080-70.jpg" width="150">
@@ -60,6 +58,7 @@ Below is the pinout diagram needed for the modules:
 
 1. Download and upload the firmware from M5Burner.
 2. Download this repository and unpack the Subfiles.zip to your SD card.
+⚠️Please note some files may not work, for now only the RAW protocol is supported⚠️
 3. Insert the SD card into the module and you're done.
 
 ---
@@ -68,6 +67,7 @@ Feel free to reach out with any questions or suggestions!
 
 **Contact**: stachu0 on Discord.
 
+🐱
 
 ## Disclaimer
 
