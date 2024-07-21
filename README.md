@@ -16,7 +16,7 @@ Check out the [3D model of my setup](https://www.tinkercad.com/things/jRt2EwITRL
 ## 🚀 Features
 
 ### 📺 Infrared Menu
-- **TVBGone**: Silence all nearby televisions with a single click.
+- **TVBGone**: Turn off all nearby televisions with a single click.
 
 ### 📡 SubGhz Menu
 - **SubSend**: Transmit .sub files from Flipper Zero using the CC1101 module (currently supports RAW protocol).
