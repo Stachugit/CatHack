@@ -29,9 +29,11 @@ https://www.tinkercad.com/things/jRt2EwITRLK-cathack
 
 ## What Do You Need
 - Curved pin headers ![](images/M50-3930642_SPL.webp)
-- CC1101 module ![](images/original.jpg | width=100)
-- Small version of micro SD card module ![](images/the-mini-sd-card-module-micro-sd-card-module.jpg | width=100)
-- Double Sided Prototype Board, I am using a 3x7cm one ![](images/ct09300-02-thumbnail-1080x1080-70.jpg | width=100)
+- 
+
+- CC1101 module <img src="images/original.jpg" width="48">
+- Small version of micro SD card module <img src="images/the-mini-sd-card-module-micro-sd-card-module.jpg" width="48">
+- Double Sided Prototype Board, I am using a 3x7cm one <img src="images/ct09300-02-thumbnail-1080x1080-70.jpg" width="48">
 - Soldering iron and some soldering skills 
 
 You can try to connect everything with cables, but it's better to solder it all nicely.
