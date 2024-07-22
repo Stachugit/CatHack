@@ -53,7 +53,7 @@ While it's possible to connect components using cables, soldering is recommended
 
 | M5StickCPlus2      | CC1101 | SD Card Module |
 |:------------------:|:------:|:--------------:|
-| GND                | GND    | GND            |
+| GND                | GND    | GND and CS           |
 | G26                | CSN    | MOSI           |
 | G36/G25            | GDO0   | MISO           |
 | G0                 | SCK    | CLK            |
