@@ -61,6 +61,7 @@ While it's possible to connect components using cables, soldering is recommended
 | G32 (bottom pin)   | MOSI   | -              |
 | G33 (bottom pin)   | MISO   | -              |
 
+⚠️Remember to connect CS to GND on the SD card module, otherwise it will not work⚠️
 ## 📥 Installation Guide
 
 1. Download and flash the firmware using M5Burner.
