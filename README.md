@@ -68,6 +68,14 @@ While it's possible to connect components using cables, soldering is recommended
    ⚠️ Note: Some files may not be compatible as only the RAW protocol is currently supported. ⚠️
 3. Insert the SD card into the module, and you're ready to go!
 
+
+## How i did it
+<img src="images/1.jpg" width="45%" alt="">
+<img src="images/2.jpg" width="45%" alt="">
+<img src="images/3.jpg" width="45%" alt="">
+<img src="images/4.jpg" width="45%" alt="">
+
+
 ## 📞 Support
 
 If you have any questions or suggestions, feel free to reach out:
