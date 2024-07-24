@@ -31,7 +31,7 @@ Check out the [3D model of my setup](https://www.tinkercad.com/things/jRt2EwITRL
 
 
 ## 🐬 Flipper Zero Compatibility
-CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the subfiles.zip package. Simply download and extract these files to your SD card to use them with CatHack.
+CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the [Subfiles.zip](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) package. Simply download and extract these files to your SD card to use them with CatHack.
 
 
 <img src="images/files.png" width="30%" alt="">
