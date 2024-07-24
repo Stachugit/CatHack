@@ -73,6 +73,11 @@ While it's possible to connect components using cables, soldering is recommended
    ⚠️ Note: Some files may not be compatible as only the RAW protocol is currently supported. ⚠️
 3. Insert the SD card into the module, and you're ready to go!
 
+## 🐬 Flipper Zero Compatibility
+CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the subfiles.zip package. Simply download and extract these files to your SD card to use them with CatHack.
+<img src="images/files.jpg" width="45%" alt="">
+
+
 ## How i did it
 <img src="images/1.jpg" width="45%" alt="">
 <img src="images/2.jpg" width="45%" alt="">
