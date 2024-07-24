@@ -29,6 +29,11 @@ Check out the [3D model of my setup](https://www.tinkercad.com/things/jRt2EwITRL
 ### ⚙️ Settings Menu
 - **Set Frequency**: Configure the frequency for SubRecord, Monitor, and Jammer functionalities.
 
+
+## 🐬 Flipper Zero Compatibility
+CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the subfiles.zip package. Simply download and extract these files to your SD card to use them with CatHack.
+<img src="images/files.png" width="50%" alt="">
+
 ## 🔮 Planned Future Features
 - **IR Send**: Send recorded IR codes or codes from Flipper Zero.
 - **IR Record**: Record IR codes.
@@ -72,10 +77,6 @@ While it's possible to connect components using cables, soldering is recommended
 2. Download the [Subfiles.zip](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) and extract its contents to your SD card.
    ⚠️ Note: Some files may not be compatible as only the RAW protocol is currently supported. ⚠️
 3. Insert the SD card into the module, and you're ready to go!
-
-## 🐬 Flipper Zero Compatibility
-CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the subfiles.zip package. Simply download and extract these files to your SD card to use them with CatHack.
-<img src="images/files.jpg" width="45%" alt="">
 
 
 ## How i did it
