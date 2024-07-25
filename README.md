@@ -10,7 +10,8 @@ CatHack is a powerful and versatile firmware designed for the M5StickCPlus2, off
 
 Check out the [3D model of my setup](https://www.tinkercad.com/things/jU8COj6wvHs-copy-of-m5cat-plus-2-lego) for a detailed view!
 
-Model made by STP | MFTEN
+Model made by [STP | MFTEN ](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-plus-2-lego?sharecode=Xh-GteGc18yoXvBrgn3utlEWV8_2JhlV2xhRgVijvh4) 
+
 
 ## 🚀 Features
 ### 📺 Infrared Menu
