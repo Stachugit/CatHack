@@ -25,6 +25,9 @@ Check out the [3D model of my setup](https://www.tinkercad.com/things/jU8COj6wvH
 
 Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-plus-2-lego?sharecode=Xh-GteGc18yoXvBrgn3utlEWV8_2JhlV2xhRgVijvh4)
 
+
+##❗Please read the installation instructions carefully❗
+
 ## 🚀 Features
 
 ### 📺 Infrared Menu
@@ -50,7 +53,7 @@ Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-p
 - **Set Frequency**: Configure the frequency for SubRecord, Monitor, Jammer, and RF Analyzer functionalities.
 
 ## 🐬 Flipper Zero Compatibility
-CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the [Subfiles.zip](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) package. Simply download and extract these files to your SD card to use them with CatHack.
+CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the [CatFiles.zip](https://drive.google.com/file/d/1RKXt6-wOJWU3LxkXymQJNm4udPsosoiT/view?usp=sharing) package. Simply download and extract these files to your SD card to use them with CatHack.
 
 <img src="images/files.png" width="30%" alt="">
 
@@ -91,7 +94,9 @@ While it's possible to connect components using cables, soldering is recommended
 
 ## 📥 Installation Guide
 1. Download and flash the firmware using M5Burner.
-2. Download the [Subfiles.zip](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) and extract its contents to your SD card.
+2. Download the [CatFiles.zip](https://drive.google.com/file/d/1RKXt6-wOJWU3LxkXymQJNm4udPsosoiT/view?usp=sharing) and extract its contents to your SD card, it should look like this:
+<img src="images/catfiles.png" width="45%" alt="">
+
    ⚠️ Note: Some files may not be compatible as only the RAW protocol is currently supported. ⚠️
 3. Insert the SD card into the module, and you're ready to go!
 
