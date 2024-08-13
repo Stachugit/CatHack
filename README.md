@@ -1,6 +1,19 @@
+
+---
+
 # CatHack Firmware for M5StickCPlus2
 ![CatHack Logo](images/cathack.png)
-CatHack is a powerful and versatile firmware designed for the M5StickCPlus2, offering a comprehensive suite of tools for infrared, SubGhz, WiFi, and Bluetooth operations. This firmware transforms your M5StickCPlus2 into a multi-functional hacking device, perfect for security researchers, hobbyists, and tech enthusiasts.
+
+## 🎉 Version 1.2 is Out!
+
+I am excited to announce the release of **CatHack v1.2**! This update brings several new features and improvements to enhance your hacking experience. Here's what's new in this version:
+
+- **RF Analyzer**: A powerful new tool to identify and analyze the frequency of your SubGhz devices.
+- **BLE Spam**: Now you can spam advertising packets over Bluetooth Low Energy, making your device even more versatile.
+- **Bad Portal**: Create fake login pages for security testing.
+- **Web Interface**: Easily add or remove files through a network interface, making file management more convenient.
+
+CatHack continues to evolve, and I'm committed to providing you with the best tools for your M5StickCPlus2.
 
 ## 📸 Device Setup
 <div style="display: flex; justify-content: space-around;">
@@ -10,10 +23,10 @@ CatHack is a powerful and versatile firmware designed for the M5StickCPlus2, off
 
 Check out the [3D model of my setup](https://www.tinkercad.com/things/jU8COj6wvHs-copy-of-m5cat-plus-2-lego) for a detailed view!
 
-Model made by [STP | MFTEN ](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-plus-2-lego?sharecode=Xh-GteGc18yoXvBrgn3utlEWV8_2JhlV2xhRgVijvh4) 
-
+Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-plus-2-lego?sharecode=Xh-GteGc18yoXvBrgn3utlEWV8_2JhlV2xhRgVijvh4)
 
 ## 🚀 Features
+
 ### 📺 Infrared Menu
 - **TVBGone**: Turn off all nearby televisions with a single click.
 
@@ -22,20 +35,22 @@ Model made by [STP | MFTEN ](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-
 - **SubRecord**: Capture signals from devices using the CC1101 module and save them to an SD card.
 - **Jammer**: Disrupt selected frequencies.
 - **Monitor**: Visualize received signals in real-time.
+- **RF Analyzer**: Identify and analyze the frequency of your SubGhz devices.
 
 ### 🌐 WiFi Menu
 - **Wardriving**: Collect and log information about nearby networks.
+- **Bad Portal**: Create fake login pages for security testing.
+- **Web Interface**: Network interface for adding/removing files.
 
 ### 🦷 Bluetooth Menu
 - **Skim Check**: Detect potential credit card skimmers in your vicinity.
+- **BLE Spam**: Spam advertising packets over Bluetooth Low Energy.
 
 ### ⚙️ Settings Menu
-- **Set Frequency**: Configure the frequency for SubRecord, Monitor, and Jammer functionalities.
-
+- **Set Frequency**: Configure the frequency for SubRecord, Monitor, Jammer, and RF Analyzer functionalities.
 
 ## 🐬 Flipper Zero Compatibility
 CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the [Subfiles.zip](https://drive.google.com/file/d/1TZCD_Jr_Pu78nF93ItqeqHZLEuuWagby/view?usp=sharing) package. Simply download and extract these files to your SD card to use them with CatHack.
-
 
 <img src="images/files.png" width="30%" alt="">
 
@@ -43,9 +58,6 @@ CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary f
 - **IR Send**: Send recorded IR codes or codes from Flipper Zero.
 - **IR Record**: Record IR codes.
 - **Deauther**: WiFi deauthentication tool.
-- **Bad Portal**: Create fake login pages for security testing.
-- **BLE Spam**: Spam advertising packets over Bluetooth Low Energy.
-- **Web Interface**: Network interface for adding/removing files.
 - **NFC/RFID Read**: Read NFC/RFID tags and save data to SD card.
 - **NFC/RFID Emulate**: Emulate NFC/RFID tags using saved data.
 
@@ -75,7 +87,7 @@ While it's possible to connect components using cables, soldering is recommended
 | G32 (bottom pin)   | MOSI   | -              |
 | G33 (bottom pin)   | MISO   | -              |
 
-⚠️Remember to connect CS to GND on the SD card module, otherwise it will not work⚠️
+⚠️ Remember to connect CS to GND on the SD card module, otherwise it will not work. ⚠️
 
 ## 📥 Installation Guide
 1. Download and flash the firmware using M5Burner.
@@ -83,8 +95,7 @@ While it's possible to connect components using cables, soldering is recommended
    ⚠️ Note: Some files may not be compatible as only the RAW protocol is currently supported. ⚠️
 3. Insert the SD card into the module, and you're ready to go!
 
-
-## How i did it
+## How I Did It
 <img src="images/1.jpg" width="45%" alt="">
 <img src="images/2.jpg" width="45%" alt="">
 <img src="images/3.jpg" width="45%" alt="">
