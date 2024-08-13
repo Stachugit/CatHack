@@ -1,4 +1,3 @@
-
 ---
 
 # CatHack Firmware for M5StickCPlus2
@@ -102,6 +101,12 @@ While it's possible to connect components using cables, soldering is recommended
 
 3. Insert the SD card into the module, and you're ready to go!
 
+## 🌐 Web Interface Login
+The default login credentials for the Web Portal are as follows:
+
+**Login**: `cath`  
+**Password**: `cath`
+
 ## How I Did It
 <img src="images/1.jpg" width="45%" alt="">
 <img src="images/2.jpg" width="45%" alt="">
@@ -117,3 +122,4 @@ This software is intended for educational and research purposes only. The author
 
 ---
 🐱 Happy Hacking with CatHack! 🐱
+
