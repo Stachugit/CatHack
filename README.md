@@ -1,16 +1,20 @@
----
-
 # CatHack Firmware for M5StickCPlus2
 ![CatHack Logo](images/cathack.png)
 
-## 🎉 Version 1.2 is Out!
+## 🎉 Version 1.3 is Out!
 
-I am excited to announce the release of **CatHack v1.2**! This update brings several new features and improvements to enhance your hacking experience. Here's what's new in this version:
+I am thrilled to announce the release of **CatHack v1.3**! This update brings exciting new features and improvements to enhance your hacking experience. Here's what's new in this version:
 
-- **RF Analyzer**: A powerful new tool to identify and analyze the frequency of your SubGhz devices.
-- **BLE Spam**: Now you can spam advertising packets over Bluetooth Low Energy, making your device even more versatile.
+- **Deauther**: A powerful WiFi deauthentication tool for network testing.
+- **WiFi Spam**: Capability to flood the area with fake WiFi networks.
+- **Brightness Control**: New setting to adjust the screen brightness for optimal visibility in various environments.
+
+Along with these additions, v1.3 includes all the great features from previous versions:
+
+- **RF Analyzer**: A powerful tool to identify and analyze the frequency of your SubGhz devices.
+- **BLE Spam**: Spam advertising packets over Bluetooth Low Energy.
 - **Bad Portal**: Create fake login pages for security testing.
-- **Web Interface**: Easily add or remove files through a network interface, making file management more convenient.
+- **Web Interface**: Easily add or remove files through a network interface.
 
 CatHack continues to evolve, and I'm committed to providing you with the best tools for your M5StickCPlus2.
 
@@ -23,7 +27,6 @@ CatHack continues to evolve, and I'm committed to providing you with the best to
 Check out the [3D model of my setup](https://www.tinkercad.com/things/jU8COj6wvHs-copy-of-m5cat-plus-2-lego) for a detailed view!
 
 Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-plus-2-lego?sharecode=Xh-GteGc18yoXvBrgn3utlEWV8_2JhlV2xhRgVijvh4)
-
 
 ## ❗Please read the installation instructions carefully❗
 
@@ -43,6 +46,8 @@ Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-p
 - **Wardriving**: Collect and log information about nearby networks.
 - **Bad Portal**: Create fake login pages for security testing.
 - **Web Interface**: Network interface for adding/removing files.
+- **Deauther**: Perform WiFi deauthentication attacks for network testing.
+- **WiFi Spam**: Generate multiple fake WiFi networks to flood the area.
 
 ### 🦷 Bluetooth Menu
 - **Skim Check**: Detect potential credit card skimmers in your vicinity.
@@ -50,6 +55,7 @@ Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-p
 
 ### ⚙️ Settings Menu
 - **Set Frequency**: Configure the frequency for SubRecord, Monitor, Jammer, and RF Analyzer functionalities.
+- **Set Brightness**: Adjust the screen brightness for optimal visibility.
 
 ## 🐬 Flipper Zero Compatibility
 CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the [CatFiles.zip](https://drive.google.com/file/d/1RKXt6-wOJWU3LxkXymQJNm4udPsosoiT/view?usp=sharing) package. Simply download and extract these files to your SD card to use them with CatHack.
@@ -59,7 +65,6 @@ CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary f
 ## 🔮 Planned Future Features
 - **IR Send**: Send recorded IR codes or codes from Flipper Zero.
 - **IR Record**: Record IR codes.
-- **Deauther**: WiFi deauthentication tool.
 - **NFC/RFID Read**: Read NFC/RFID tags and save data to SD card.
 - **NFC/RFID Emulate**: Emulate NFC/RFID tags using saved data.
 
@@ -98,7 +103,6 @@ While it's possible to connect components using cables, soldering is recommended
 
    ⚠️ Note: Some files may not be compatible as only the RAW protocol is currently supported. ⚠️
 
-
 3. Insert the SD card into the module, and you're ready to go!
 
 ## 🌐 Web Interface Login
@@ -106,6 +110,13 @@ The default login credentials for the Web Portal are as follows:
 
 **Login**: `cath`  
 **Password**: `cath`
+
+## 📱 Media
+Stay updated with CatHack through various media channels:
+
+- **Reddit Posts**: Check out my latest updates and discussions on [Reddit](https://www.reddit.com/user/Stachu1134/)
+- **YouTube Video**: Watch the CatHack in action: [CatHack Video](https://youtu.be/UGI_UZwbe0s?si=uOVqKbpcL1EUcegq)
+- **Instagram Feature**: CatHack was featured by M5Stack on their [Instagram](https://www.instagram.com/p/C-9FTYPBu99/?img_index=1)
 
 ## How I Did It
 <img src="images/1.jpg" width="45%" alt="">
@@ -122,4 +133,3 @@ This software is intended for educational and research purposes only. The author
 
 ---
 🐱 Happy Hacking with CatHack! 🐱
-
