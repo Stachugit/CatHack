@@ -128,6 +128,12 @@ Stay updated with CatHack through various media channels:
 If you have any questions or suggestions, feel free to reach out:
 - Discord: stachu0
 
+## 📝 Credits
+I would like to credit these libraries for making CatHack better and more complete:
+- **foo**
+- **foo**
+- **foo**
+
 ## ⚠️ Disclaimer
 This software is intended for educational and research purposes only. The author bears no responsibility for any misuse of this software. Use it responsibly and in compliance with all applicable laws and regulations.
 
