@@ -128,6 +128,18 @@ Stay updated with CatHack through various media channels:
 If you have any questions or suggestions, feel free to reach out:
 - Discord: stachu0
 
+Here’s the troubleshooting section for your project in English:
+
+---
+
+## ❓ Why isn't signal recording working?
+
+1. **Incorrect connections**: Double-check your wiring and connections between the components.
+2. **Using M5 Launcher**: Ensure that you're running the CatHack firmware directly, not by using m5launcher.
+3. **Missing files on the SD card**: Ensure you've added all required files to the SD card. Refer to the installation guide for details on what should be included. 
+
+
+
 ## ⚠️ Disclaimer
 This software is intended for educational and research purposes only. The author bears no responsibility for any misuse of this software. Use it responsibly and in compliance with all applicable laws and regulations.
 
