@@ -128,9 +128,6 @@ Stay updated with CatHack through various media channels:
 If you have any questions or suggestions, feel free to reach out:
 - Discord: stachu0
 
-Here’s the troubleshooting section for your project in English:
-
----
 
 ## ❓ Why isn't signal recording working?
 
