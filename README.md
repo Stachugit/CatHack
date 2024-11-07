@@ -2,8 +2,6 @@
 ![CatHack Logo](images/cathack.png)
 
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Stachu" data-color="#ff7b00" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
-
 
 ## 🎉 Version 1.3 is Out!
 
