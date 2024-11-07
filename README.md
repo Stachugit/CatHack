@@ -1,6 +1,10 @@
 # CatHack Firmware for M5StickCPlus2
 ![CatHack Logo](images/cathack.png)
 
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Stachu" data-color="#ff7b00" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+
+
 ## 🎉 Version 1.3 is Out!
 
 I am thrilled to announce the release of **CatHack v1.3**! This update brings exciting new features and improvements to enhance your hacking experience. Here's what's new in this version:
