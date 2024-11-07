@@ -1,7 +1,7 @@
 # CatHack Firmware for M5StickCPlus2
 ![CatHack Logo](images/cathack.png)
 
-
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=Stachu&button_colour=ff8800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/Stachu)
 
 ## 🎉 Version 1.3 is Out!
 
