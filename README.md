@@ -3,20 +3,28 @@
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=Stachu&button_colour=ff8800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/Stachu)
 
-## 🎉 Version 1.3 is Out!
+## 🎉 Version 1.4 is Out!
 
-I am thrilled to announce the release of **CatHack v1.3**! This update brings exciting new features and improvements to enhance your hacking experience. Here's what's new in this version:
+I am thrilled to announce the release of **CatHack v1.4**! This update brings exciting new features and improvements to enhance your experience. Here's what's new in this version:
 
-- **Deauther**: A powerful WiFi deauthentication tool for network testing.
-- **WiFi Spam**: Capability to flood the area with fake WiFi networks.
-- **Brightness Control**: New setting to adjust the screen brightness for optimal visibility in various environments.
+- **Universal Remote**: Control any TV in the world with this comprehensive remote control feature
+- **New Others Menu** with:
+  - **Catgotchi**: Your virtual pet that levels up as you use CatHack features
+  - **Lucky 7**: A casino-style game to pass the time
+- **Enhanced Settings**:
+  - **ScreenSaver**: Choose between an image or black screen
+  - **Reset Catgotchi**: Reset your virtual pet (Warning: A new name will be randomly assigned)
+  - **IR Pin**: Select the IR LED pin
+- Various bug fixes and improvements
 
-Along with these additions, v1.3 includes all the great features from previous versions:
-
-- **RF Analyzer**: A powerful tool to identify and analyze the frequency of your SubGhz devices.
-- **BLE Spam**: Spam advertising packets over Bluetooth Low Energy.
-- **Bad Portal**: Create fake login pages for security testing.
-- **Web Interface**: Easily add or remove files through a network interface.
+Plus all the great features from previous versions:
+- **Deauther**: A powerful WiFi deauthentication tool for network testing
+- **WiFi Spam**: Capability to flood the area with fake WiFi networks
+- **Brightness Control**: Adjust the screen brightness for optimal visibility
+- **RF Analyzer**: A powerful tool to identify and analyze the frequency of your SubGhz devices
+- **BLE Spam**: Spam advertising packets over Bluetooth Low Energy
+- **Bad Portal**: Create fake login pages for security testing
+- **Web Interface**: Easily add or remove files through a network interface
 
 CatHack continues to evolve, and I'm committed to providing you with the best tools for your M5StickCPlus2.
 
@@ -35,7 +43,9 @@ Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-p
 ## 🚀 Features
 
 ### 📺 Infrared Menu
-- **TVBGone**: Turn off all nearby televisions with a single click.
+- **TVBGone**: Turn off all nearby televisions with a single click
+- **Universal Remote**: Control any TV worldwide with comprehensive remote control features
+
 
 ### 📡 SubGhz Menu
 - **SubSend**: Transmit .sub files from Flipper Zero using the CC1101 module (currently supports RAW protocol).
@@ -55,9 +65,16 @@ Model made by [STP | MFTEN](https://www.tinkercad.com/things/6C5WqbT3iW9-m5cat-p
 - **Skim Check**: Detect potential credit card skimmers in your vicinity.
 - **BLE Spam**: Spam advertising packets over Bluetooth Low Energy.
 
+### 🎮 Others Menu
+- **Catgotchi**: Virtual pet that gains levels as you use CatHack features
+- **Lucky 7**: Casino-style game for entertainment
+
 ### ⚙️ Settings Menu
-- **Set Frequency**: Configure the frequency for SubRecord, Monitor, Jammer, and RF Analyzer functionalities.
-- **Set Brightness**: Adjust the screen brightness for optimal visibility.
+- **Set Frequency**: Configure the frequency for SubRecord, Monitor, Jammer, and RF Analyzer functionalities
+- **Set Brightness**: Adjust the screen brightness for optimal visibility
+- **ScreenSaver**: Choose between an image or black screen
+- **Reset Catgotchi**: Reset your virtual pet (Warning: Generates a new random name)
+- **IR Pin**: Configure the IR LED pin
 
 ## 🐬 Flipper Zero Compatibility
 CatHack supports .sub files with RAW protocol from Flipper Zero. All necessary files, including compatible Flipper Zero files, are included in the [CatFiles.zip](https://drive.google.com/file/d/1RKXt6-wOJWU3LxkXymQJNm4udPsosoiT/view?usp=sharing) package. Simply download and extract these files to your SD card to use them with CatHack.
