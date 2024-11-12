@@ -129,7 +129,6 @@ Stay updated with CatHack through various media channels:
 ## 📞 Support
 If you have any questions or suggestions, feel free to reach out:
 - Discord: stachu0
-- Email: stan.piskorski@gmail.com
 
 
 ## ❓ Why isn't signal recording working?
